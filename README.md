@@ -1,6 +1,6 @@
 # Codeforces Round 946s.
 
-This repository contains my solutions to the problems from [Codeforces Round #946s](https://codeforces.com/contest/1974). Each solution is implemented in C++. Below, you'll find a brief description of each problem and an overview of the solution approach.
+This repository contains my solutions to the problems from [Codeforces Round #946s](https://codeforces.com/contest/1974). Each solution is implemented in C++. Below, you will find a description with the topic of each problem..
 
 
 ## Problem A: Phone Desktop
